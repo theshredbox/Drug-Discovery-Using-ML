@@ -46,7 +46,7 @@ st.markdown("""
 This app allows you to predict the bioactivity towards inhibting the `Acetylcholinesterase` enzyme. `Acetylcholinesterase` is a drug target for Alzheimer's disease.
 
 **Credits**
-- App built in `Python` + `Streamlit` by [Chanin Nantasenamat](https://medium.com/@chanin.nantasenamat) (aka [Data Professor](http://youtube.com/dataprofessor))
+- App built in `Python` + `Streamlit` by Janhvi Vanjari, Varnika Nigam, Divya Pratap Singh, Hrudayangam Mehta, Mansi Shrivastav, Kavya Chitnis, Aryan Ahuja, Mehak Dung
 - Descriptor calculated using [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) [[Read the Paper]](https://doi.org/10.1002/jcc.21707).
 ---
 """)
